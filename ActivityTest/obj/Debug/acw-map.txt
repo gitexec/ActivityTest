@@ -1,0 +1,8 @@
+ActivityTest.MainActivity, ActivityTest;md58c108c5acb72770b1b593c4bdb774ecf.MainActivity
+ActivityTest.MainActivity, ActivityTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58c108c5acb72770b1b593c4bdb774ecf.MainActivity
+ActivityTest.MainActivity;md58c108c5acb72770b1b593c4bdb774ecf.MainActivity
+activitytest.MainActivity;md58c108c5acb72770b1b593c4bdb774ecf.MainActivity
+ActivityTest.SecondActivity, ActivityTest;md58c108c5acb72770b1b593c4bdb774ecf.SecondActivity
+ActivityTest.SecondActivity, ActivityTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58c108c5acb72770b1b593c4bdb774ecf.SecondActivity
+ActivityTest.SecondActivity;md58c108c5acb72770b1b593c4bdb774ecf.SecondActivity
+activitytest.SecondActivity;md58c108c5acb72770b1b593c4bdb774ecf.SecondActivity
